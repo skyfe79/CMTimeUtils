@@ -18,3 +18,6 @@ dependencies: [
 
 2. Run `swift build` to build the project.
 
+## License
+
+CMTimeUtils is distributed under the MIT license. See the LICENSE file for more details.
